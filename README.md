@@ -10,4 +10,4 @@ HTML <br>
 CSS <br>
 Figma 
 
-Acesse o projeto completo em <a href="https://curriculo-steel.vercel.app/" target="_blank"">Currículo</a>
+<a href="https://curriculo-steel.vercel.app/" target="_blank"">Currículo</a>
