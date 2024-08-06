@@ -10,4 +10,4 @@ HTML <br>
 CSS <br>
 Figma 
 
-<a href="https://curriculo-steel.vercel.app/" target="_blank"">Currículo</a>
+https://curriculo-steel.vercel.app/
